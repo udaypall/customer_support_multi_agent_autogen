@@ -1,4 +1,4 @@
-# 🤖 Customer Support Multi-Agent System using AutoGen
+# 🤖 Customer Support Multi-Agent Chat BoT using AutoGen
 
 ## 📌 Project Overview
 
